@@ -1,2 +1,1 @@
-# .netlify.app
-ASAP
+<?php print "hello"; ?>
